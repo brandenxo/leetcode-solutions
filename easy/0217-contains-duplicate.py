@@ -1,7 +1,7 @@
 # 217. Contains Duplicate
 # Difficulty: Easy
 # https://leetcode.com/problems/contains-duplicate/
-# Runtime: 14 ms | Memory: 32 MB
+# Runtime: 18 ms | Memory: 32.2 MB
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
