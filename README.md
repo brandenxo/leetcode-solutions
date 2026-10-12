@@ -7,13 +7,14 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**1 solved**  ·  Easy: 1
+**2 solved**  ·  Easy: 2
 
-**Languages:** Python (1)
+**Languages:** Python (2)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/0001-two-sum.py) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](easy/0121-best-time-to-buy-and-sell-stock.py) |
 <!-- STATS:END -->
 
 ## How this repo is organized
