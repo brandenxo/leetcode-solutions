@@ -1,13 +1,9 @@
 # 169. Majority Element
 # Difficulty: Easy
 # https://leetcode.com/problems/majority-element/
-# Runtime: 19 ms | Memory: 21.5 MB
+# Runtime: 1 ms | Memory: 21.5 MB
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        frequency = defaultdict(int)
-
-        for num in nums:
-            frequency[num] += 1
-                
-        return max(frequency, key=frequency.get)
+        nums.sort()
+        return nums[len(nums) // 2]
