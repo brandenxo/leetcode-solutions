@@ -1,7 +1,7 @@
 # 1. Two Sum
 # Difficulty: Easy
 # https://leetcode.com/problems/two-sum/
-# Runtime: 0 ms | Memory: 20.4 MB
+# Runtime: 0 ms | Memory: 20.6 MB
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
