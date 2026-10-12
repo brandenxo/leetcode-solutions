@@ -1,7 +1,7 @@
 # 169. Majority Element
 # Difficulty: Easy
 # https://leetcode.com/problems/majority-element/
-# Runtime: 26 ms | Memory: 21.6 MB
+# Runtime: 27 ms | Memory: 21.7 MB
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
