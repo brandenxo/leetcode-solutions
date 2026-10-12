@@ -1,11 +1,11 @@
 # 169. Majority Element
 # Difficulty: Easy
 # https://leetcode.com/problems/majority-element/
-# Runtime: 27 ms | Memory: 21.7 MB
+# Runtime: 27 ms | Memory: 21.6 MB
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        frequency = {}
+        frequency = defaultdict(int)
 
         for num in nums:
             if num not in frequency:
