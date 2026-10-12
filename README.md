@@ -7,10 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**0 solved**
+**1 solved**  ·  Easy: 1
+
+**Languages:** Python (1)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/0001-two-sum.py) |
 <!-- STATS:END -->
 
 ## How this repo is organized
